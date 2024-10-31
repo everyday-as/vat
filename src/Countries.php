@@ -319,6 +319,7 @@ class Countries implements \Iterator, \ArrayAccess
             'SI', // Slovenia
             'SK', // Slovakia
             'YT', // Mayotte => France
+            'TF', // French Southern Territories => France
         ];
     }
 
